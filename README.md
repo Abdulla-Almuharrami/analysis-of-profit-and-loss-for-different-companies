@@ -1,0 +1,2 @@
+# analysis-of-profit-and-loss-for-different-companies
+this project analysis the profit and loss for different companies. first task was focusing on healthcare companies. second task was to perform dynamic table that shows profit and loss for any selected company from the drop down list. the third task was to build a 2 years forecasting table for any selected company. an analysis report is attached as well
